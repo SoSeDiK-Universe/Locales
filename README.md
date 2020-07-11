@@ -1,4 +1,4 @@
-# Repository for translations / Репозиторий для локализаций
+# Translations / Локализации
 
 ## __resource-pack
 Contains resource pack language files.
@@ -10,6 +10,6 @@ You can check out the resource pack [here](https://github.com/SoSeDiK-Universe/R
 Also, you may be interested in our [Wiki](https://github.com/SoSeDiK-Universe/Wiki)!
 > Также, Вам может быть интересна наша [Вики](https://github.com/SoSeDiK-Universe/Wiki)!
 
-## Translations
+## Info / Информация
 - Folders should be named the same as Minecraft's lang keys.
 > - Папки должны быть названы так же, как и языковые файлы Minecraft'а.
