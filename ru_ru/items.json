@@ -329,7 +329,6 @@
 	"item.twine.name": "Травяная бечёвка",
 	"item.uncrafted.lore": "&7&oВы пока не создали этот предмет",
 	"item.undiscovered.lore": "&7&oВы пока не изучили этот предмет",
-	"item.undiscovered.name": "&kDo-not-translate-this",
 	"item.unlit_campfire.name": "Костёр",
 	"item.water_gun.name": "Водяной пистолет",
 	"item.white_glass_shard.name": "Осколок белого стекла",
@@ -337,5 +336,10 @@
 	"item.wolf_hide.name": "Волчья шкура",
 	"item.yellow_glass_shard.name": "Осколок жёлтого стекла",
 	"item.yellow_sleeping_bag.name": "Жёлтый спальный мешок",
-	"item.zombacon.name": "Зомбекон"
+	"item.zombacon.name": "Зомбекон",
+	"item.unlit_soul_campfire.name": "Костёр душ",
+	"item.crimson_chopping_block.name": "Багровый разделочный пенёк",
+	"item.warped_chopping_block.name": "Искажённый разделочный пенёк",
+	"item.crimson_stick.name": "Багровая палка",
+	"item.warped_stick.name": "Искажённая палка"
 }

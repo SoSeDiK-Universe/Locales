@@ -338,5 +338,10 @@
 	"item.wolf_hide.name": "Wolf Hide",
 	"item.yellow_glass_shard.name": "Yellow Glass Shard",
 	"item.yellow_sleeping_bag.name": "Yellow Sleeping Bag",
-	"item.zombacon.name": "Zombacon"
+	"item.zombacon.name": "Zombacon",
+	"item.unlit_soul_campfire.name": "Soul Campfire",
+	"item.crimson_chopping_block.name": "Crimson Chopping Block",
+	"item.warped_chopping_block.name": "Warped Chopping Block",
+	"item.crimson_stick.name": "Crimson Stick",
+	"item.warped_stick.name": "Warped Stick"
 }

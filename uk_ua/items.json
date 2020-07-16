@@ -329,7 +329,6 @@
 	"item.twine.name": "Трав’яна мотузка",
 	"item.uncrafted.lore": "&7&oВи поки що не створили цей предмет",
 	"item.undiscovered.lore": "&7&oВи поки що не вивчили цей предмет",
-	"item.undiscovered.name": "&kDo-not-translate-this",
 	"item.unlit_campfire.name": "Багаття",
 	"item.water_gun.name": "Водяна пушка",
 	"item.white_glass_shard.name": "Уламок білого скла",
@@ -337,5 +336,10 @@
 	"item.wolf_hide.name": "Вовча шкура",
 	"item.yellow_glass_shard.name": "Уламок жовтого скла",
 	"item.yellow_sleeping_bag.name": "Жовтий спальний мішок",
-	"item.zombacon.name": "Зомбекон"
+	"item.zombacon.name": "Зомбекон",
+	"item.unlit_soul_campfire.name": "Багаття душ",
+	"item.crimson_chopping_block.name": "Багряний обробний пеньок",
+	"item.warped_chopping_block.name": "Химерний обробний пеньок",
+	"item.crimson_stick.name": "Багряна палка",
+	"item.warped_stick.name": "Химерна палка"
 }
