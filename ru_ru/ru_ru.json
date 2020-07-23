@@ -108,7 +108,7 @@
 	"general.attribute.poison": "Отравление",
 	"general.attribute.regeneration": "Регенерация",
 	"general.attribute.resistance": "Сопротивление",
-	"general.attribute.thirst_purified": "&8&oЧистая вода",
+	"general.attribute.thirst_purified": "&8&oСодержит очищенную воду",
 	"general.attribute.tool_stats": "&f{0} &f{1}",
 	"general.attribute.uncraftable": "Без эффектов",
 	"general.attribute.uses": "&f &7Заполненость: {0}{1}&7/{2}",

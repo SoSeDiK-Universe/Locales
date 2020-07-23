@@ -108,7 +108,7 @@
 	"general.attribute.poison": "Отруєння",
 	"general.attribute.regeneration": "Відновлення",
 	"general.attribute.resistance": "Стійкість",
-	"general.attribute.thirst_purified": "&8&oЧиста вода",
+	"general.attribute.thirst_purified": "&8&oМістить чисту воду",
 	"general.attribute.tool_stats": "&f{0} &f{1}",
 	"general.attribute.uncraftable": "Немає эфекту",
 	"general.attribute.uses": "&f &7Заповненість: {0}{1}&7/{2}",
