@@ -1,4 +1,5 @@
 {
+	"general.pinged": "&7Гравець &e{0} &7згадав Вас у чаті!",
 	"additional.bukkit.unknown_command": " &7Невідома команда. Введіть &c/help &7для допомоги.",
 	"additional.chat.deaths": "Кількість смертей: {0}",
 	"additional.chat.playtime": "Награно {0}: {1}",
@@ -19,8 +20,8 @@
 	"additional.nutrition.vegetable.lore": "&f &7{0}%",
 	"additional.playtime.h": "годин",
 	"additional.playtime.m": "хвилин",
-	"additional.tab.footer": "\n &7Пінг: {0}   &7TPS: {1} ",
-	"additional.tab.header": "&cВ&fБ&cТ &8– &7В очікуванні багів!\n\n&d&lВсесвіт Сусіда\n &7(та безумні ідеї його аудиторії) \n ",
+	"additional.tab.footer": "",
+	"additional.tab.header": "&cВ&fБ&cТ &8– &7В очікуванні багів!\n\n&d&lВсесвіт Сусіда\n &7(та безумні ідеї його аудиторії) \n \n &7Пінг: {0}   &7TPS: {1}\n ",
 	"discord.link": " &7Натисніть на це повідомлення для отримання посилання!",
 	"discord.link.hover": "&fНатисніть, щоб перейти по &9Discord &fпосиланню!",
 	"discord.not_verified": " &7Ваш &9Discord &7ще не був прив’язаний.",

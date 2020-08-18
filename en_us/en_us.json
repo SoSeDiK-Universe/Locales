@@ -1,4 +1,5 @@
 {
+	"general.pinged": "&7Player &e{0} &7mentioned you in the chat!",
 	"additional.bukkit.unknown_command": " &7Unknown command. Type &c/help &7for help.",
 	"additional.chat.deaths": "Number of Deaths: {0}",
 	"additional.chat.playtime": "{0} played: {1}",
@@ -20,8 +21,8 @@
 	"additional.nutrition.vegetable.lore": "&f &7{0}%",
 	"additional.playtime.h": "Hours",
 	"additional.playtime.m": "Minutes",
-	"additional.tab.footer": "\n &7Ping: {0}   &7TPS: {1} ",
-	"additional.tab.header": "&cO&fB&cT &8– &7Bugs expected!\n\n&d&lSoSeDiK's Universe\n &7(and his audiences' crazy ideas) \n ",
+	"additional.tab.footer": "",
+	"additional.tab.header": "&cO&fB&cT &8– &7Bugs expected!\n\n&d&lSoSeDiK's Universe\n &7(and his audiences' crazy ideas) \n \n &7Ping: {0}   &7TPS: {1}\n ",
 	"discord.link": " &7Click on this message to get the link!",
 	"discord.link.hover": "&fClick to open &9Discord &flink!",
 	"discord.not_verified": " &7Your &9Discord &7wasn't linked yet.",
