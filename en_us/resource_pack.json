@@ -1,0 +1,16 @@
+{
+  "resourcepack.open_book": "&bClick here &7or type &b/resourcepack &7to open the resource pack book.",
+  "resourcepack.open_book.hover": "Open the resource pack book!",
+  "resourcepack.sent": "\uE001 &7The resource pack was sent to you! Make sure you allowed it to install.",
+  "resourcepack.book.enabled": "&aThe resource pack will not be downloaded automatically.",
+  "resourcepack.book.disabled": "&cThe resource pack will now download automatically.",
+  "rpbook.title": "Resource pack",
+  "rpbook.description": "This server depends on a resource pack for cool textures and models. Please, make sure to accept it. It can take some time to load it.",
+  "rpbook.ending": "We wish you a good game!",
+  "rpbook.load": "Click to load!",
+  "rpbook.load.hover": "Load the resource pack",
+  "rpbook.enable": "Always open the book.",
+  "rpbook.enable.hover": "Open this book before\nloading the resource pack",
+  "rpbook.disable": "Don't show again.",
+  "rpbook.disable.hover": "Load the resource pack\nwithout opening this book"
+}
