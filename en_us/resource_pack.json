@@ -6,7 +6,7 @@
   "resourcepack.book.disabled": "&cThe resource pack will now download automatically.",
   "rpbook.title": "Resource pack",
   "rpbook.description": "This server depends on a resource pack for cool textures and models. Please, make sure to accept it. It can take some time to load it.",
-  "rpbook.ending": "We wish you a good game!",
+  "rpbook.ending": "Want to change the language?",
   "rpbook.load": "Click to load!",
   "rpbook.load.hover": "Load the resource pack",
   "rpbook.enable": "Always open the book.",
