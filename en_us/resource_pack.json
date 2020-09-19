@@ -12,5 +12,6 @@
   "rpbook.enable": "Always open the book.",
   "rpbook.enable.hover": "Open this book before\nloading the resource pack",
   "rpbook.disable": "Don't show again.",
-  "rpbook.disable.hover": "Load the resource pack\nwithout opening this book"
+  "rpbook.disable.hover": "Load the resource pack\nwithout opening this book",
+  "rpbook.lang.hover": "Click to change!"
 }
