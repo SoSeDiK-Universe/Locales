@@ -22,6 +22,7 @@
 	"command.unverify.description": "unlink your Discord",
 	"command.emoji.description": "show all available Emojis",
 	"command.discord.description": "get a link to our Discord server",
+	"command.rules.description": "server rules",
 
 	"command.lang.description": "change server's localization",
 	"command.lang.usage.language": "&7<language>",

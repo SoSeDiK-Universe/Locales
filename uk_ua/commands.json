@@ -17,6 +17,7 @@
 	"command.unverify.description": "відв’язати Discord",
 	"command.emoji.description": "доступні Emojis",
 	"command.discord.description": "посилання на наш Discord сервер",
+	"command.rules.description": "короткий звід правил",
 
 	"command.lang.description": "змінити мову сервера",
 	"command.lang.usage.language": "&7<мова>",

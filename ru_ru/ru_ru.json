@@ -8,7 +8,6 @@
 	"compass.east": "В",
 	"compass.south_east": "ЮВ",
 	"general.pinged": "&7Игрок &e{0} &7упомянул Вас в чате!",
-	"additional.bukkit.unknown_command": " &7Неизвестная команда. Введите &c/help &7для помощи.",
 	"additional.chat.deaths": "Число смертей: {0}",
 	"additional.chat.playtime": "Наиграно {0}: {1}",
 	"additional.chat.pm": "Нажмите, чтобы написать {0}",
@@ -336,7 +335,7 @@
 	"scoreboard.world.world": " &b",
 	"scoreboard.world.world_nether": " &c",
 	"scoreboard.world.world_the_end": " &9",
-	"scoreboard.torch": "\uE50C Час горіння факелу: {0}",
-	"scoreboard.soul_torch": "\uE52A Час горіння факелу: {0}",
+	"scoreboard.torch": "\uE50C Время горения факела: {0}",
+	"scoreboard.soul_torch": "\uE52A Время горения факела: {0}",
 	"toast.first_join": "Привет! Пожалуйста, посмотрите на достижения для подальших действий."
 }

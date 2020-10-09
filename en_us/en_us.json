@@ -8,7 +8,6 @@
 	"compass.east": "E",
 	"compass.south_east": "SE",
 	"general.pinged": "&7Player &e{0} &7mentioned you in the chat!",
-	"additional.bukkit.unknown_command": " &7Unknown command. Type &c/help &7for help.",
 	"additional.chat.deaths": "Number of Deaths: {0}",
 	"additional.chat.playtime": "{0} played: {1}",
 	"additional.chat.pm": "Click to PM {0}",
