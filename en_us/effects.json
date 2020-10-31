@@ -1,0 +1,16 @@
+{
+  "effect.bribe.name": " Bribe",
+  "effect.cold_resistance.name": " Cold Resistance",
+  "effect.comfort.name": " Comfort",
+  "effect.dehydration.name": " Dehydration",
+  "effect.drowning.name": " Drowning",
+  "effect.frostbite.name": " Frostbite",
+  "effect.heat_resistance.name": " Heat Resistance",
+  "effect.hyperthermia.name": " Hyperthermia",
+  "effect.hypothermia.name": " Hypothermia",
+  "effect.itch.name": " Itch",
+  "effect.mining_fatigue.name": " Mining Fatigue",
+  "effect.thirst.name": " Thirst",
+  "effect.poison_immunity.name": " Poison Immunity",
+  "effect.lava_blood.name": " Lava Blood"
+}

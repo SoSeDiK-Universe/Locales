@@ -1,0 +1,16 @@
+{
+  "effect.bribe.name": " Подкуп",
+  "effect.cold_resistance.name": " Сопротивление холоду",
+  "effect.comfort.name": " Уют",
+  "effect.dehydration.name": " Обезвоживание",
+  "effect.drowning.name": " Утопление",
+  "effect.frostbite.name": " Обморожение",
+  "effect.heat_resistance.name": " Сопротивление теплу",
+  "effect.hyperthermia.name": " Гипертермия",
+  "effect.hypothermia.name": " Гипотермия",
+  "effect.itch.name": " Чесотка",
+  "effect.mining_fatigue.name": " Утомление",
+  "effect.thirst.name": " Жажда",
+  "effect.poison_immunity.name": " Иммунитет к отравлению",
+  "effect.lava_blood.name": " Лавовая кровь"
+}
